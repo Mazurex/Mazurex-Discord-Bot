@@ -39,6 +39,8 @@ Once the bot is in your server, right click on it and press "copy id", paste tha
 ![image](https://user-images.githubusercontent.com/93735179/204051658-ae80bbc2-205b-4745-b5d2-db02da11cdd9.png)
 
 Then, right click on the name of your discord server and press "copy id"
+
+
 ![image](https://user-images.githubusercontent.com/93735179/204051717-b63f0fc3-9692-460e-9af0-82adaffc84e8.png)
 
 Then paste the id into the "guild id" part of the config.json file
@@ -46,7 +48,7 @@ Then paste the id into the "guild id" part of the config.json file
 
 ![image](https://user-images.githubusercontent.com/93735179/204051758-d68ab8ba-af62-4b53-a281-551c05902f41.png)
 
-You're almost done! If you create any new commands, in the terminal (if you're using visual studio code, you can press "ctrl + `") type in "node deploy-commands.js"
+You're almost done! If you create any new commands, in the terminal type in "node deploy-commands.js"
 
 To start your bot, in the terminal type in "node index.js", you should see "Ready!" appear in the console shortly after, and the bot should be online, if you close the console/program, the bot will stay online for a bit but it is off.
 
