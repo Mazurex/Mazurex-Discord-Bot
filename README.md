@@ -53,3 +53,5 @@ You're almost done! If you create any new commands, in the terminal type in "nod
 To start your bot, in the terminal type in "node index.js", you should see "Ready!" appear in the console shortly after, and the bot should be online, if you close the console/program, the bot will stay online for a bit but it is off.
 
 You can use the bot in any way you want, I'm not responcible for any damages you cause, this is only for educational purposes, have a good day!
+
+Can't see "copy id"? Try following this tutorial: https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjvtdL22-T7AhU4TEEAHSqnBLMQFnoECAoQAQ&url=https%3A%2F%2Fwww.howtogeek.com%2F714348%2Fhow-to-enable-or-disable-developer-mode-on-discord%2F&usg=AOvVaw0234offyQccyjJJqQFLqBx
